@@ -4,7 +4,7 @@ While exploring the official documentation of React.js, I got an idea to create 
 
 ## Quick Demo
 
-- **Live link** - https://ankit-matth.github.io/tic-tac-toe/
+- **Live link** - https://tic-tac-toe-ten-henna.vercel.app/
 
 https://github.com/Ankit-Matth/tic-tac-toe/assets/146843890/6f1c27e7-0874-4cea-a506-577b6ec205e7
 
