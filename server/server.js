@@ -9,7 +9,7 @@ const httpServer = createServer((req, res) => {
 
 const io = new Server(httpServer, {
   cors: {
-    origin: ["https://tic-tac-toe-ten-henna.vercel.app/", "http://localhost:3000"]
+    origin: ["https://tic-tac-toe-ten-henna.vercel.app", "http://localhost:3000"]
   }
 });
 
